@@ -1,1 +1,2 @@
 mon premier document sur github
+changement du contenu des document 1.txt dans git
